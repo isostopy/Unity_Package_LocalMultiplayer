@@ -1,0 +1,21 @@
+{
+    "name":"com.isostopy.selection",
+    "version": "1.0.0",
+    "displayName": "Isostopy Local Multiplayer",
+    "description": "Para conectar dispositivos sin acceso a internet, mediante una red local como la de un móvil en modo hotspot, utilizando llamadas UDP.",
+    "author": 
+    {
+        "name": "isostopy",
+        "email": "software@isostopy.com",
+        "url": "https://isostopy.com"
+    },
+    
+    "samples":
+		[
+			{
+				"displayName":"Usage",
+				"description":"Escena que muestra el funcionamiento.",
+				"path":"Samples~/Usage"
+			}
+		]
+}
